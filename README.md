@@ -14,6 +14,10 @@ By simple I mean I am (hopefully) able to recreate. Or at least a part of it.
     - Source: [andersschmidt/andersschmidt.github.io](https://github.com/andersschmidt/andersschmidt.github.io)
 
 
+- [Stephan Druskat](https://sdruskat.net/)
+    - Source: [sdruskat/sdruskat.github.io](https://github.com/sdruskat/sdruskat.github.io)
+
+
 - [Gregor Boehl](https://gregorboehl.com/)
 
 
