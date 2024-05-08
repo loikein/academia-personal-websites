@@ -54,6 +54,9 @@ By simple I mean I am (hopefully) able to recreate. Or at least a part of it.
 - [Benjamin Pinaya](https://www.bpinaya.com/)
     - Source: [bpinaya/blog](https://github.com/bpinaya/blog)
 
+- [Kyle Butts](https://www.kylebutts.com/)
+    - Source: [kylebutts/kylebutts.github.io](https://github.com/kylebutts/kylebutts.github.io)
+
 
 ## The Fancy Ones
 
